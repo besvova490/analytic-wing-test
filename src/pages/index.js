@@ -107,6 +107,9 @@ export default function Home() {
               with&nbsp;Vercel.
             </p>
           </a>
+          <a href='https://github.com/besvova490/analytic-wing-electron/releases/download/v1.0.4/Analytic-Wing-1.0.4.dmg'>
+            download Analytic Wing
+          </a>
         </div>
       </main>
     </>
